@@ -1,0 +1,33 @@
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container {
+    display: flex;
+    background-color: aquamarine;
+}
+div.container img{
+    margin: 25px 0 0 250px;
+    width: 100px;
+    
+}
+div.conainer div{
+    flex-direction: column;
+}
+div.container p{
+    text-align:left ;
+
+}
+/* .container div{
+    background-color: antiquewhite; 
+    display: flex;
+} */
+.allthree{ 
+    display: flex;
+    flex-direction: column;
+
+}
